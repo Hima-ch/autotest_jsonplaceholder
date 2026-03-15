@@ -23,7 +23,7 @@ This project is a professional automated testing framework for the **JSONPlaceho
 * tests/ - Test suites
 
 ### Quick Start \
-git clone \
+git clone https://github.com/Hima-ch/autotest_jsonplaceholder.git \
 pip install -r requirements.txt \
 pytest tests/ -v -s
 
@@ -47,6 +47,6 @@ pytest tests/ -v -s
 * tests/ - Тестовые сценарии
 
 ### Запуск проекта \
-git clone \
+git clone https://github.com/Hima-ch/autotest_jsonplaceholder.git \
 pip install -r requirements.txt \
 pytest tests/ -v -s
