@@ -1,0 +1,6 @@
+requests
+pytest
+python-dotenv
+allure-pytest
+pydantic
+loguru
