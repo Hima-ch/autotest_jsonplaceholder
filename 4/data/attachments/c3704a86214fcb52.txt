@@ -1,0 +1,2 @@
+2026-03-15 13:26:22.621 | INFO     | api.base_api:_make_request:20 - Sending GET request to https://jsonplaceholder.typicode.com/posts/1
+2026-03-15 13:26:23.030 | INFO     | api.base_api:_make_request:26 - Response status: 200

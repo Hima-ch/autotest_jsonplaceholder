@@ -1,0 +1,5 @@
+2026-03-15 13:26:26.123 | INFO     | api.base_api:_make_request:20 - Sending POST request to https://jsonplaceholder.typicode.com/posts
+2026-03-15 13:26:26.123 | DEBUG    | api.base_api:_make_request:22 - Payload: {'title': 'title new post', 'body': 'text new post', 'userId': 8}
+2026-03-15 13:26:26.640 | INFO     | api.base_api:_make_request:26 - Response status: 201
+2026-03-15 13:26:26.641 | INFO     | api.base_api:_make_request:20 - Sending GET request to https://jsonplaceholder.typicode.com/posts/101
+2026-03-15 13:26:26.685 | INFO     | api.base_api:_make_request:26 - Response status: 404
