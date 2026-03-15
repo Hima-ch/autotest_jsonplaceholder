@@ -1,5 +1,7 @@
 # API AutoTesting Framework (JSONPlaceholder)
 
+Allure report: https://hima-ch.github.io/autotest_jsonplaceholder/
+
 <a href="#english">English</a> \
 <a href="#russian">Русский</a>
 
