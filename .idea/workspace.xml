@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82e178eb-009e-4ac9-bb37-8a55242be21c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/python-app.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/autotests_jsonplaceholder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/base_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/posts_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/post_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_negative.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_posts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_stability.py" afterDir="false" />
-    </list>
+    <list default="true" id="82e178eb-009e-4ac9-bb37-8a55242be21c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
