@@ -1,0 +1,3 @@
+2026-03-15 18:48:22.247 | INFO     | api.base_api:_make_request:20 - Sending POST request to https://jsonplaceholder.typicode.com/posts
+2026-03-15 18:48:22.247 | DEBUG    | api.base_api:_make_request:22 - Payload: {'title': '', 'body': 'abcd', 'userId': 6}
+2026-03-15 18:48:22.366 | INFO     | api.base_api:_make_request:26 - Response status: 201
