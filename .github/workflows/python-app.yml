@@ -2,9 +2,9 @@ name: Python API Tests
 
 on:
   push:
-    branches: [ "main" ] # Убедись, что твоя ветка называется main (или поменяй на master)
+    branches: [ "master" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "master" ]
 
 jobs:
   build:
