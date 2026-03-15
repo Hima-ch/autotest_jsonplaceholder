@@ -22,7 +22,7 @@ This project is a professional automated testing framework for the **JSONPlaceho
 * models/ - Pydantic models
 * tests/ - Test suites
 
-### Quick Start \
+### Quick Start
 git clone https://github.com/Hima-ch/autotest_jsonplaceholder.git \
 pip install -r requirements.txt \
 pytest tests/ -v -s
@@ -46,7 +46,7 @@ pytest tests/ -v -s
 * models/ - Pydantic модели
 * tests/ - Тестовые сценарии
 
-### Запуск проекта \
+### Запуск проекта
 git clone https://github.com/Hima-ch/autotest_jsonplaceholder.git \
 pip install -r requirements.txt \
 pytest tests/ -v -s
